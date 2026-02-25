@@ -100,3 +100,7 @@ If you are not performing a manual install and would like to turn telemetry trac
 After the PowerShell script is successfully run, please navigate to `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Doing so will initialize the CustomConfig list item that sets up Microsoft 365 learning pathways for its first use.
 
 The configuration is now complete and you can move forward with using Microsoft 365 learning pathways. Please see the user documentation for more information.
+
+## Creating Custom Content Packs
+
+If you would like to create a custom content pack and customize Microsoft 365 Learning Pathways for your organization you can use this [documentation](CreateCustomContentPack.md).

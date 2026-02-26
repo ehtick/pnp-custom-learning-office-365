@@ -45,7 +45,27 @@ catch {
   break
 }
 
+# Validate if tenant app catalog Custom scripts is blocked
+try {
+  $appcatalog = Get-PnPTenantAppCatalogUrl
+
+  $noScript = $false
+  $siteInfo = Get-PnPTenantSite -Url $appcatalog
+  if ($siteInfo.DenyAddAndCustomizePages -ne "Disabled") { 
+    # Enable custom scripts on the tenant app catalog (allowed)
+    Set-PnPTenantSite -Identity $appcatalog -DenyAddAndCustomizePages:$false
+    $noScript = $true
+  }
+} catch { }
+
 Set-PnPStorageEntity -Key MicrosoftCustomLearningSite -Value $M365LPSiteUrl -Description "Microsoft 365 learning pathways Site Collection"
 Get-PnPStorageEntity -Key MicrosoftCustomLearningSite
+
+# Revert to original setting (blocked)
+try {
+  if($noScript -eq $true) {
+    Set-PnPTenantSite -Identity $appcatalog -DenyAddAndCustomizePages:$true
+  }
+} catch { }
 
 Disconnect-PnPOnline

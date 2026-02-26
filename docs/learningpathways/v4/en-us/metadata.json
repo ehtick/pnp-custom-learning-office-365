@@ -316,6 +316,15 @@
           "Source": "Microsoft",
           "SubCategories": []
         },
+        {
+          "Id": "0a89d391-5a86-42c9-a3ae-03a18ebc19b7",
+          "Name": "Clipchamp",
+          "Image": "images/categories/clipchamp.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
         { 
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
           "Name": "Excel",
@@ -474,6 +483,15 @@
           "Id": "9dfad94b-bc4b-46e9-a233-6626c098b763",
           "Name": "To Do",
           "Image": "images/categories/microsoft-todo.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "9c14c00c-1c53-45e0-9ea2-ffe9265d4336",
+          "Name": "Visio",
+          "Image": "images/categories/visio.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",

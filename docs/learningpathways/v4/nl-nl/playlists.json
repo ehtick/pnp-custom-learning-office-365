@@ -3896,5 +3896,67 @@
       "b6678daa-2c82-44eb-be3f-2a9cb56301e8",
       "dee28c00-503a-48b3-89df-91a5084e6e43"
     ]
-  }
+  },
+  {
+  "Id": "46eead5f-6116-4e37-a12f-65157041d9b0",
+  "Title": "Aan de slag met Clipchamp",
+  "Image": "images/categories/clipchamp.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "0a89d391-5a86-42c9-a3ae-03a18ebc19b7",
+  "Description": "Leer de basis van het gebruik van Clipchamp om video's te maken en te bewerken voor werk en privégebruik.",
+  "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+  "StatusNote": "",
+  "Assets": [
+    "750e8940-cd76-4abf-9767-b34d3d3285d7",
+    "fedb7b6c-4d31-496b-837f-474bc9aa2367",
+    "b8c51c23-45e7-492d-acea-3a5688d620ca",
+    "fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b",
+    "ae001117-9c5f-4bd4-b061-149e5b0ac78a",
+    "03934399-bb63-425a-983e-b3f334d79f48",
+    "e6366d53-92c1-43b0-811a-0cddff2a54f7"
+  ]
+},
+{
+  "Id": "ca9847a6-d88a-4e60-9f7e-33d16784ab87",
+  "Title": "Aan de slag met Visio",
+  "Image": "images/categories/visio.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "9c14c00c-1c53-45e0-9ea2-ffe9265d4336",
+  "Description": "Leer de basis van het gebruik van Visio om diagrammen te maken en te bewerken.",
+  "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+  "StatusNote": "",
+  "Assets": [
+    "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
+    "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+    "15412a4f-c59a-4fe0-8dd4-d466e6250137"
+  ]
+},
+{
+  "Id": "7159c814-86b1-43a8-bd99-617e30cc86ee",
+  "Title": "Pagina's opmaken in Visio",
+  "Image": "images/categories/visio.png",
+  "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+  "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+  "TechnologyId": "",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "9c14c00c-1c53-45e0-9ea2-ffe9265d4336",
+  "Description": "Leer hoe u pagina's en tekst opmaakt in Visio.",
+  "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+  "StatusNote": "",
+  "Assets": [
+    "79c1ea54-a9a6-46ce-a4ca-798fa51c7f01",
+    "11027d0c-c576-4112-8b09-f55b1c32928f",
+    "27b8081c-42ba-437c-9783-0d52917c7bc3",
+    "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763"
+  ]
+}
 ]

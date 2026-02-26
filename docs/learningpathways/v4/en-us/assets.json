@@ -11823,5 +11823,159 @@
     "Source": "Microsoft",
     "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
     "StatusNote": ""
+  },
+  {
+    "Id": "750e8940-cd76-4abf-9767-b34d3d3285d7",
+    "Title": "What is Clipchamp?",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/750e8940-cd76-4abf-9767-b34d3d3285d7?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fedb7b6c-4d31-496b-837f-474bc9aa2367",
+    "Title": "How to edit a video in Clipchamp",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/fedb7b6c-4d31-496b-837f-474bc9aa2367?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b8c51c23-45e7-492d-acea-3a5688d620ca",
+    "Title": "How to copy and paste in Clipchamp",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/b8c51c23-45e7-492d-acea-3a5688d620ca?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b",
+    "Title": "How to start editing a new video",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ae001117-9c5f-4bd4-b061-149e5b0ac78a",
+    "Title": "How to close or delete a video project",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/ae001117-9c5f-4bd4-b061-149e5b0ac78a?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "03934399-bb63-425a-983e-b3f334d79f48",
+    "Title": "Saving a video while working on it",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/03934399-bb63-425a-983e-b3f334d79f48?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e6366d53-92c1-43b0-811a-0cddff2a54f7",
+    "Title": "Sharing a Clipchamp video or project",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/e6366d53-92c1-43b0-811a-0cddff2a54f7?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
+    "Title": "Select a template in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+    "Title": "Add and connect shapes in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/2b9cb32f-98fe-49ed-bd6a-d763e70e667c?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "15412a4f-c59a-4fe0-8dd4-d466e6250137",
+    "Title": "Format in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/15412a4f-c59a-4fe0-8dd4-d466e6250137?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "79c1ea54-a9a6-46ce-a4ca-798fa51c7f01",
+    "Title": "Add text to a page",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/79c1ea54-a9a6-46ce-a4ca-798fa51c7f01?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "11027d0c-c576-4112-8b09-f55b1c32928f",
+    "Title": "Add, edit, move, or rotate text in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/11027d0c-c576-4112-8b09-f55b1c32928f?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "27b8081c-42ba-437c-9783-0d52917c7bc3",
+    "Title": "Add and edit connector text",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/27b8081c-42ba-437c-9783-0d52917c7bc3?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763",
+    "Title": "Format text in a Visio drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/f1/article/0f6befc2-feb2-4ee3-bf2a-ac8b3d293763?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
   }
 ]

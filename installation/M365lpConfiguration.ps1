@@ -110,6 +110,17 @@ if ($AppCatalogAdmin) {
     return
   }
   $appcatalog = Get-PnPTenantAppCatalogUrl
+
+  # Validate if tenant app catalog Custom scripts is blocked
+  try {
+    $noScript = $false
+    $siteInfo = Get-PnPTenantSite -Url $appcatalog
+    if ($siteInfo.DenyAddAndCustomizePages -ne "Disabled") { 
+      # Enable custom scripts on the tenant app catalog (allowed)
+      Set-PnPTenantSite -Identity $appcatalog -DenyAddAndCustomizePages:$false
+      $noScript = $true
+    }
+  } catch { }
     
   try {
     # Test that user can write values to the App Catalog
@@ -121,6 +132,14 @@ if ($AppCatalogAdmin) {
     Write-Warning "$user cannot write to App Catalog site" -BackgroundColor Black -ForegroundColor Red
     Write-Warning "Please make sure they are a Site Collection Admin for $appcatalog"
     Write-Warning $_
+
+    # Revert to original setting (blocked)
+    try {
+      if($noScript -eq $true) {
+        Set-PnPTenantSite -Identity $appcatalog -DenyAddAndCustomizePages:$true
+      }
+    } catch { }
+
     Disconnect-PnPOnline
     return
   }
@@ -133,6 +152,13 @@ if ($AppCatalogAdmin) {
   if ($AppCatalogAdminOnly) {
     Write-Host "`nTenant is configured. Run this script with the -SiteAdminOnly parameter to configure the site collection"
   }
+
+  # Revert to original setting (blocked)
+  try {
+    if($noScript -eq $true) {
+      Set-PnPTenantSite -Identity $appcatalog -DenyAddAndCustomizePages:$true
+    }
+  } catch { }
 }
 #endregion
 #region Content stuff

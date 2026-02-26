@@ -1,5 +1,13 @@
 # Change Log
 
+## Content Update March 2026
+
+This release includes new documentation for the [JSON Schema for custom content packs](/installation/JSONSchema.md) and [how to create a custom content pack](/installation/CreateCustomContentPack.md). Content updates include playlists for Clipchamp and Visio.
+
+## Version 5.0.0.7
+
+- Bug fix for [#976](../../../issues/976) - pdf viewer is very small.
+
 ## Content Update January 2026
 
 This released included creating an automated translation for assets, and flagging of content that is depricated. In addition, change the logos to the new Microsoft Office logos.

@@ -168,31 +168,36 @@ export default class AssetView extends React.Component<IAssetViewProps, IAssetVi
       if (!includes(this.props.assetOrigins, url.origin)) {
         try {
           const iFrameDoc = this._IFrame.current.contentDocument ? this._IFrame.current.contentDocument : this._IFrame.current.contentWindow.document;
-          //Find page header and hub nav and hide it
-          const iFrameDocHeader: HTMLDivElement = iFrameDoc.querySelector('[data-automation-id="pageHeader"]') as HTMLDivElement;
-          if (iFrameDocHeader)
-            iFrameDocHeader.style.display = "none";
-          const iFrameHubNav: HTMLDivElement = iFrameDoc.querySelector('.ms-HubNav') as HTMLDivElement;
-          if (iFrameHubNav)
-            iFrameHubNav.style.display = "none";
-
           //Get the page content
           const iFrameDocBody = iFrameDoc.getElementById("spPageCanvasContent");
-          //Add 150 for comments section spacer
-          let iFrameDocComments = iFrameDoc.querySelector('[aria-label="Comments"]');
-          this._Height = this.getContentHeight(iFrameDocBody) + this.getContentHeight(iFrameDocComments) + 150;
-          //Use windows timeout to resize for slow responsive pages
-          window.setTimeout(() => {
-            //If comments weren't rendered during initial resize
-            if (!iFrameDocComments)
-              iFrameDocComments = iFrameDoc.querySelector('[aria-label="Comments"]');
+          if(iFrameDocBody){
+            //Find page header and hub nav and hide it
+            const iFrameDocHeader: HTMLDivElement = iFrameDoc.querySelector('[data-automation-id="pageHeader"]') as HTMLDivElement;
+            if (iFrameDocHeader)
+              iFrameDocHeader.style.display = "none";
+            const iFrameHubNav: HTMLDivElement = iFrameDoc.querySelector('.ms-HubNav') as HTMLDivElement;
+            if (iFrameHubNav)
+              iFrameHubNav.style.display = "none";
+
             //Add 150 for comments section spacer
-            const newHeight = this.getContentHeight(iFrameDocBody) + this.getContentHeight(iFrameDocComments) + 150;
-            if (newHeight !== this._Height) {
-              this._Height = newHeight;
-              this.resizeFrame(this._Height);
-            }
-          }, 2000);
+            let iFrameDocComments = iFrameDoc.querySelector('[aria-label="Comments"]');
+            this._Height = this.getContentHeight(iFrameDocBody) + this.getContentHeight(iFrameDocComments) + 150;
+            //Use windows timeout to resize for slow responsive pages
+            window.setTimeout(() => {
+              //If comments weren't rendered during initial resize
+              if (!iFrameDocComments)
+                iFrameDocComments = iFrameDoc.querySelector('[aria-label="Comments"]');
+              //Add 150 for comments section spacer
+              const newHeight = this.getContentHeight(iFrameDocBody) + this.getContentHeight(iFrameDocComments) + 150;
+              if (newHeight !== this._Height) {
+                this._Height = newHeight;
+                this.resizeFrame(this._Height);
+              }
+            }, 2000);
+          }else{
+            this._Height = this.HEIGHT_DEFAULT;
+          }
+          
         } catch (err) {
           this._Height = this.HEIGHT_DEFAULT;
         }

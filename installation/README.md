@@ -46,6 +46,9 @@ You will want to add everyone who should be able to view content to the Visitors
 
 Add `Microsoft 365 learning pathways` App to the site collection.
 
+## Ensure Custom Scripts is allowed on the App Catalog Site
+Navigate to the SharePoint Admin Center. If you are deploying using the Tenant App Catalog ensure that custom scripts is allowed on the app catalog. If you are using a site app catalog ensure that custom scripts is set on the site you are deploying to.
+
 ## Execute PowerShell Configuration Script
 
 A PowerShell script `M365lpConfiguration.ps1` is included that you will need to execute to create three [tenant properties](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) that the solution uses. In addition, the script creates two [single part app pages](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in the site pages library to host the admin and user web parts at a known location. This script was built to use [PnP PowerShell](https://pnp.github.io/powershell/articles/registerapplication.html). Ensure that you can run basic commands and connect before running the Learning Pathways installation script.

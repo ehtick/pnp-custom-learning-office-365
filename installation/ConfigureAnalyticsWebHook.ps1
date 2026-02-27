@@ -13,9 +13,26 @@ Connect-PnPOnline -Url $clSite -Interactive -ClientId $clientID
 #Get Tenant App Catalog
 $appCatalogUrl = Get-PnPTenantAppCatalogUrl
 
-if ($appCatalogUrl) {  
+if ($appCatalogUrl) {
+  # Validate if tenant app catalog Custom scripts is blocked
+  try {
+    $noScript = $false
+    $siteInfo = Get-PnPTenantSite -Url $appCatalogUrl
+    if ($siteInfo.DenyAddAndCustomizePages -ne "Disabled") { 
+      # Enable custom scripts on the tenant app catalog (allowed)
+      Set-PnPTenantSite -Identity $appCatalogUrl -DenyAddAndCustomizePages:$false
+      $noScript = $true
+    }
+  } catch { }
 
   Set-PnPStorageEntity -Key MicrosoftCustomLearningWebhookConfig -Value $webhookConfig -Description "Microsoft 365 learning pathways webhook configuration"
 
   Get-PnPStorageEntity -Key MicrosoftCustomLearningWebhookConfig
+
+  # Revert to original setting (blocked)
+  try {
+    if($noScript -eq $true) {
+      Set-PnPTenantSite -Identity $appCatalogUrl -DenyAddAndCustomizePages:$true
+    }
+  } catch { }
 }

@@ -82,7 +82,9 @@ export class DataService implements IDataService {
           for (let sc = 0; sc < resultsJson.Categories[c].SubCategories.length; sc++) {
 
             if (resultsJson.Categories[c].SubCategories[sc].Image.length > 1)
-              resultsJson.Categories[c].SubCategories[sc].Image = `${this._cdnBase}${this._language}/${resultsJson.Categories[c].SubCategories[sc].Image}`;
+              //country specific images
+              //resultsJson.Categories[c].SubCategories[sc].Image = `${this._cdnBase}${this._language}/${resultsJson.Categories[c].SubCategories[sc].Image}`;
+              resultsJson.Categories[c].SubCategories[sc].Image = `${this._cdnBase}neutral/${resultsJson.Categories[c].SubCategories[sc].Image}`;
           }
         }
         return resultsJson;

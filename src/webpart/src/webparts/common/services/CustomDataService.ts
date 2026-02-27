@@ -338,8 +338,8 @@ export class CustomDataService implements ICustomDataService {
       if (!language)
         language = params.defaultLanguage;
 
-      let oldCacheItems = await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items.filter(`Title eq 'CustomConfig' and CDN eq '${this._cdn}' and Language eq '${language}'`).select("Id")();
-      let cacheItems = cloneDeep(oldCacheItems);
+      const oldCacheItems = await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items.filter(`Title eq 'CustomConfig' and CDN eq '${this._cdn}' and Language eq '${language}'`).select("Id")();
+      const cacheItems = cloneDeep(oldCacheItems);
       for (let i = 0; i < cacheItems.length; i++) {
         await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items.getById(cacheItems[i].Id).delete();
       }

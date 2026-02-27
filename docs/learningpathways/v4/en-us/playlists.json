@@ -3880,7 +3880,7 @@
   },
   {
     "Id": "cb7397cf-6f5a-4909-8ae0-4d3fb7163f84",
-    "Title": "Get Start with Power Automate",
+    "Title": "Get Started with Power Automate",
     "Image": "images/categories/power-automate.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -3896,6 +3896,125 @@
       "23c0e172-1fc1-4ac8-a9db-cd0b81d634d8",
       "b6678daa-2c82-44eb-be3f-2a9cb56301e8",
       "dee28c00-503a-48b3-89df-91a5084e6e43"
+    ]
+  },
+  {
+    "Id": "46eead5f-6116-4e37-a12f-65157041d9b0",
+    "Title": "Get started with Clipchamp",
+    "Image": "images/categories/clipchamp.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "0a89d391-5a86-42c9-a3ae-03a18ebc19b7",
+    "Description": "Learn the basics of how to use Clipchamp to create and edit videos for work and personal use.",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "750e8940-cd76-4abf-9767-b34d3d3285d7",
+      "fedb7b6c-4d31-496b-837f-474bc9aa2367",
+      "b8c51c23-45e7-492d-acea-3a5688d620ca",
+      "fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b",
+      "ae001117-9c5f-4bd4-b061-149e5b0ac78a",
+      "03934399-bb63-425a-983e-b3f334d79f48",
+      "e6366d53-92c1-43b0-811a-0cddff2a54f7"
+    ]
+  },
+  {
+    "Id": "ca9847a6-d88a-4e60-9f7e-33d16784ab87",
+    "Title": "Get started with Visio",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9c14c00c-1c53-45e0-9ea2-ffe9265d4336",
+    "Description": "Learn the basics of how to use Visio to create and edit diagrams.",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
+      "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+      "15412a4f-c59a-4fe0-8dd4-d466e6250137"
+    ]
+  },
+  {
+    "Id": "7159c814-86b1-43a8-bd99-617e30cc86ee",
+    "Title": "Format pages in Visio",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9c14c00c-1c53-45e0-9ea2-ffe9265d4336",
+    "Description": "Learn how to format pages and text in Visio.",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "79c1ea54-a9a6-46ce-a4ca-798fa51c7f01",
+      "11027d0c-c576-4112-8b09-f55b1c32928f",
+      "27b8081c-42ba-437c-9783-0d52917c7bc3",
+      "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763"
+    ]
+  },
+  {
+    "Id": "7159c814-86b1-43a8-bd99-617e30cc86ee",
+    "Title": "Getting started with Power Apps",
+    "Image": "images/categories/power-apps.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3545fd1f-e834-4a3f-8106-a67b866bc611",
+    "Description": "Learn the basics of building apps with Power Apps.",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "66eb28d7-8fd3-4926-ad58-af3ffbe150c2",
+      "3f2b07ed-3424-4dbd-bc8a-8c42de55ff21",
+      "8afabafb5-7c60-40e0-b19a-aeaeca7a7ab1",
+      "6ece2434-777b-4908-8304-257ee14ca6b2"
+    ]
+  },
+  {
+    "Id": "7159c814-86b1-43a8-bd99-617e30cc86ee",
+    "Title": "Copilot and Power Apps",
+    "Image": "images/categories/power-apps.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3545fd1f-e834-4a3f-8106-a67b866bc611",
+    "Description": "Learn how to use Copilot with Power Apps to enhance your app development.",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "2767f8d4-8a1b-478f-80c1-070e209f1fae",
+      "a076d8d4-ca4d-4c71-864c-d5eb96f957db"
+    ]
+  },
+  {
+    "Id": "7159c814-86b1-43a8-bd99-617e30cc86ee",
+    "Title": "Creating Canvas Apps",
+    "Image": "images/categories/power-apps.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3545fd1f-e834-4a3f-8106-a67b866bc611",
+    "Description": "Learn the basics of creating can",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": "",
+    "Assets": [
+      "32d8135e-a9f5-465d-927a-6b475a8552b8",
+      "9c59d084-e1f6-441a-8eab-718ae48105ab",
+      "4d9ca5d5-e030-4ac2-9a3f-96d2972a59b5"
     ]
   }
 ]

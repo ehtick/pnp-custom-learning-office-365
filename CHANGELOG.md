@@ -1,5 +1,20 @@
 # Change Log
 
+## Content Update March 2026
+
+This release includes new documentation for the [JSON Schema for custom content packs](/installation/JSONSchema.md) and [how to create a custom content pack](/installation/CreateCustomContentPack.md).
+
+- New playlist for Clipchamp
+- New playlist for Visio
+- New playlists for Power Apps
+
+## Version 5.0.0.10
+
+- Bug fix for [#976](../../../issues/976) - pdf viewer is very small.
+- Bug fix for [#979](../../../issues/979) - Update PowerShell scripts to set custom scripts to true
+- Fixed a bug to remove old cached items prior to creating new items.
+- Repointed images to netural folder instead of language specific for ease of maintenance.
+
 ## Content Update January 2026
 
 This released included creating an automated translation for assets, and flagging of content that is depricated. In addition, change the logos to the new Microsoft Office logos.

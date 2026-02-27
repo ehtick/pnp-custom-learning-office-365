@@ -108,7 +108,7 @@ export class DataService implements IDataService {
         const resultsJson: IPlaylist[] = await results.json();
         for (let i = 0; i < resultsJson.length; i++) {
           if ((resultsJson[i].Image as string).length > 1)
-            resultsJson[i].Image = `${this._cdnBase}${this._language}/${resultsJson[i].Image}`;
+            resultsJson[i].Image = `${this._cdnBase}neutral/${resultsJson[i].Image}`;
         }
         return resultsJson;
       } else {

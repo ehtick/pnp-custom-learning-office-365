@@ -12,6 +12,8 @@ This release includes new documentation for the [JSON Schema for custom content 
 
 - Bug fix for [#976](../../../issues/976) - pdf viewer is very small.
 - Bug fix for [#979](../../../issues/979) - Update PowerShell scripts to set custom scripts to true
+- Fixed a bug to remove old cached items prior to creating new items.
+- Repointed images to netural folder instead of language specific for ease of maintenance.
 
 ## Content Update January 2026
 

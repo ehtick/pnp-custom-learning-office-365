@@ -361,7 +361,7 @@ export class CustomDataService implements ICustomDataService {
 
       return newConfigResponse.Id;
     } catch (err) {
-      Logger.write(`🎓 M365LP:${this.LOG_SOURCE} (createConfig) - ${err}`, LogLevel.Error);
+      Logger.write(`🎓 M365LP:${this.LOG_SOURCE} (createCache) - ${err}`, LogLevel.Error);
       return 0;
     }
   }

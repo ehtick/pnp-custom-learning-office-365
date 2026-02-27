@@ -332,12 +332,29 @@ export class CustomDataService implements ICustomDataService {
     }
   }
 
+  //delete old Cache in the list to ensure there is only one.
+  public async deleteOldCache(language: string): Promise<number> {
+    try {
+      if (!language)
+        language = params.defaultLanguage;
+
+      let oldCacheItems = await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items.filter(`Title eq 'CustomConfig' and CDN eq '${this._cdn}' and Language eq '${language}'`).select("Id")();
+      let cacheItems = cloneDeep(oldCacheItems);
+      for (let i = 0; i < cacheItems.length; i++) {
+        await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items.getById(cacheItems[i].Id).delete();
+      }
+    } catch (err) {
+      Logger.write(`🎓 M365LP:${this.LOG_SOURCE} (deleteOldCache) - ${err}`, LogLevel.Error);
+      return 0;
+    }
+  }
+
   //Creates a custom config stored in local SharePoint list
   public async createCache(newConfig: ICacheConfig, language: string): Promise<number> {
     try {
       if (!language)
         language = params.defaultLanguage;
-
+      await this.deleteOldCache(language);
       delete newConfig['@odata.etag'];
       const newConfigResponse = await this._sp.web.lists.getByTitle(CustomListNames.customConfigName).items
         .add({ Title: "CustomConfig", CDN: this._cdn, Language: language, JSONData: JSON.stringify(newConfig) });

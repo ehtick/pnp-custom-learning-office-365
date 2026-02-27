@@ -1,7 +1,7 @@
 [
   {
     "Id": "0d9f6fd5-6b0c-45a2-a0aa-0576ae1f6895",
-    "Title": "Monitorizar a interação no Viva Engage com a análise",
+    "Title": "Controlar o envolvimento no Viva Engage com a análise",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/0d9f6fd5-6b0c-45a2-a0aa-0576ae1f6895?embed=true&themeid=-1",
     "TechnologyId": "",
@@ -188,7 +188,7 @@
   },
   {
     "Id": "6596fb5a-c25e-4dcb-b034-7cb38b611e38",
-    "Title": "Vídeo: melhorar a acessibilidade com estilos de título",
+    "Title": "Vídeo: Melhorar a acessibilidade com estilos de cabeçalho",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/68f1eeff-6113-410f-8313-b5d382cc3be1?embed=true&themeid=-1",
     "TechnologyId": "",
@@ -265,7 +265,7 @@
   },
   {
     "Id": "8db19630-ecd0-4d1e-b735-437aea62e248",
-    "Title": "Anúncios de enredo no Viva Engage",
+    "Title": "Anúncios de enredo em Viva Engage",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/8db19630-ecd0-4d1e-b735-437aea62e248?embed=true&themeid=-1",
     "TechnologyId": "",
@@ -562,7 +562,7 @@
   },
   {
     "Id": "fd3cf456-28e1-4621-b683-b0d21348a935",
-    "Title": "Utilizar tópicos no Viva Engage",
+    "Title": "Usar tópicos no Microsoft Viva Engage",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/fd3cf456-28e1-4621-b683-b0d21348a935?embed=true&themeid=-1",
     "TechnologyId": "",
@@ -4764,7 +4764,7 @@
   },
   {
     "Id": "6f208b1e-32a8-4cb3-9966-6bf5d04d6a52",
-    "Title": "Usar a formatação condicional para realçar informações no Excel",
+    "Title": "Utilizar a formatação condicional para realçar informações no Excel",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?embed=true&themeid=-1",
     "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
@@ -5600,7 +5600,7 @@
   },
   {
     "Id": "f6047dff-8dc3-4d1e-a939-617e02211f3e",
-    "Title": "Monitorizar a interação no Viva Engage com a análise",
+    "Title": "Controlar o envolvimento no Viva Engage com a análise",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/f6047dff-8dc3-4d1e-a939-617e02211f3e?embed=true&themeid=-1",
     "TechnologyId": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
@@ -6612,7 +6612,7 @@
   },
   {
     "Id": "afe89455-43ed-47b9-af79-a82a374ba0bd",
-    "Title": "Iniciar uma chamada de um chat no Microsoft Teams",
+    "Title": "Iniciar uma chamada a partir de uma conversa no Microsoft Teams",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/f5138c9d-df4c-43d8-9cf6-53400c1a7798?embed=true&themeId=-1",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -6623,7 +6623,7 @@
   },
   {
     "Id": "b33ae7a4-e14b-4e46-9440-94bfed214415",
-    "Title": "Apresentar a partir de PowerPoint Live no Microsoft Teams",
+    "Title": "Presente de PowerPoint Live no Microsoft Teams",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/ddfc73dd-b957-4f2b-8e42-ce078f51873c?embed=true&themeid=-1",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -7041,7 +7041,7 @@
   },
   {
     "Id": "3f73d218-52d6-4f88-a733-9ff37073ee4c",
-    "Title": "Criar, editar ou eliminar uma lista de contactos (ou grupo de contactos) no Outlook",
+    "Title": "Criar, editar ou excluir uma lista de contatos (ou grupo de contatos) no Outlook",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023?embed=true&themeid=-1",
     "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
@@ -7624,7 +7624,7 @@
   },
   {
     "Id": "e6f47704-340c-7d4f-b00d-d0cf35aa1fcc",
-    "Title": "Navegação InPrivate no Microsoft Edge",
+    "Title": "Procurar InPrivate no Microsoft Edge",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/e6f47704-340c-7d4f-b00d-d0cf35aa1fcc?embed=true&themeid=-1",
     "TechnologyId": "d15c1f4d-8a62-4c33-bd6d-3fac098f3c8b",
@@ -7789,7 +7789,7 @@
   },
   {
     "Id": "1246bc29-c113-415d-80ba-7fac257beab2",
-    "Title": "Combinar texto de duas ou mais células em uma célula no Microsoft Excel",
+    "Title": "Combinar texto de duas ou mais células numa célula no Microsoft Excel",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/81ba0946-ce78-42ed-b3c3-21340eb164a6?embed=true&themeid=-1",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -8130,7 +8130,7 @@
   },
   {
     "Id": "6f40e6e4-85af-45e0-b39d-65dd504a3246",
-    "Title": "Inserir ou excluir linhas e colunas",
+    "Title": "Inserir ou eliminar linhas e colunas no Excel",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/6f40e6e4-85af-45e0-b39d-65dd504a3246?embed=true&themeid=-1",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -8174,7 +8174,7 @@
   },
   {
     "Id": "77b781bf-5074-41b0-897a-dc37d4515f27",
-    "Title": "Classificar dados em um intervalo ou tabela no Excel",
+    "Title": "Ordenar dados num intervalo ou tabela no Excel",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/77b781bf-5074-41b0-897a-dc37d4515f27?embed=true&themeid=-1",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -8724,7 +8724,7 @@
   },
   {
     "Id": "753e0607-0bfd-4712-ad7e-18490dd565a2",
-    "Title": "Viva Connections on the go",
+    "Title": "Ligações Viva em dispositivos móveis",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/753e0607-0bfd-4712-ad7e-18490dd565a2?embed=true&themeid=-1",
     "TechnologyId": "e031aa9d-5421-4ee9-8bc6-1b871bafc7f0",
@@ -10495,7 +10495,7 @@
   },
   {
     "Id": "24bd7d62-f3c7-47d8-8cce-ee78edc018d4",
-    "Title": "Introdução à aplicação móvel Microsoft 365 Copilot",
+    "Title": "Introdução ao aplicativo móvel Microsoft 365 Copilot",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/24bd7d62-f3c7-47d8-8cce-ee78edc018d4?embed=true&themeid=-1",
     "TechnologyId": "44c7891e-fc61-4148-88b1-e04c2e3ccf32",
@@ -10715,7 +10715,7 @@
   },
   {
     "Id": "046c23d5-012e-49e0-8579-fe49302959fc",
-    "Title": "Mantenha sua apresentação na marca com Copilot",
+    "Title": "Manter a sua apresentação na marca com a Copilot",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/046c23d5-012e-49e0-8579-fe49302959fc?embed=true&themeid=-1",
     "TechnologyId": "44c7891e-fc61-4148-88b1-e04c2e3ccf32",
@@ -10825,7 +10825,7 @@
   },
   {
     "Id": "05302e3f-de42-4475-b235-be9cb3d4e936",
-    "Title": "Visualizar seus dados com o Copilot no Excel",
+    "Title": "Visualizar os seus dados com o Copilot no Excel",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/05302e3f-de42-4475-b235-be9cb3d4e936?embed=true&themeid=-1",
     "TechnologyId": "44c7891e-fc61-4148-88b1-e04c2e3ccf32",
@@ -11243,7 +11243,7 @@
   },
   {
     "Id": "69e2faf9-2c1e-4baa-8305-23e625021bcf",
-    "Title": "Introdução aos agentes do SharePoint",
+    "Title": "Introdução aos agentes no SharePoint",
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/69e2faf9-2c1e-4baa-8305-23e625021bcf?embed=true&themeid=-1",
     "TechnologyId": "44c7891e-fc61-4148-88b1-e04c2e3ccf32",
@@ -11819,6 +11819,259 @@
     "Description": "",
     "Url": "https://support.office.com/pt-br/f1/article/dee28c00-503a-48b3-89df-91a5084e6e43?embed=true&themeid=-1",
     "TechnologyId": "b23dbda3-b7a6-4c19-be53-baff2d62cd7e",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "750e8940-cd76-4abf-9767-b34d3d3285d7",
+    "Title": "O que é Clipchamp?",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/750e8940-cd76-4abf-9767-b34d3d3285d7?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fedb7b6c-4d31-496b-837f-474bc9aa2367",
+    "Title": "Como editar um vídeo no Clipchamp",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/fedb7b6c-4d31-496b-837f-474bc9aa2367?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b8c51c23-45e7-492d-acea-3a5688d620ca",
+    "Title": "Como copiar e colar em Clipchamp",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/b8c51c23-45e7-492d-acea-3a5688d620ca?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b",
+    "Title": "Como começar a editar um novo vídeo",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/fc2daaaf-f9a3-44d2-85f8-49fc8e38c17b?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ae001117-9c5f-4bd4-b061-149e5b0ac78a",
+    "Title": "Como fechar ou excluir um projeto de vídeo",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/ae001117-9c5f-4bd4-b061-149e5b0ac78a?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "03934399-bb63-425a-983e-b3f334d79f48",
+    "Title": "Guardar um vídeo enquanto trabalha no mesmo",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/03934399-bb63-425a-983e-b3f334d79f48?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e6366d53-92c1-43b0-811a-0cddff2a54f7",
+    "Title": "Partilhar um Clipchamp vídeo ou projeto",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/e6366d53-92c1-43b0-811a-0cddff2a54f7?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
+    "Title": "Selecionar um modelo no Visio",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+    "Title": "Adicionar e conectar formas no Visio",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/2b9cb32f-98fe-49ed-bd6a-d763e70e667c?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "15412a4f-c59a-4fe0-8dd4-d466e6250137",
+    "Title": "Formatar no Visio",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/15412a4f-c59a-4fe0-8dd4-d466e6250137?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "79c1ea54-a9a6-46ce-a4ca-798fa51c7f01",
+    "Title": "Adicionar texto a uma página",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/79c1ea54-a9a6-46ce-a4ca-798fa51c7f01?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "11027d0c-c576-4112-8b09-f55b1c32928f",
+    "Title": "Adicionar, editar, mover ou girar texto no Visio",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/11027d0c-c576-4112-8b09-f55b1c32928f?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "27b8081c-42ba-437c-9783-0d52917c7bc3",
+    "Title": "Adicionar e editar o texto do conector",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/27b8081c-42ba-437c-9783-0d52917c7bc3?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763",
+    "Title": "Formatar texto em um desenho do Visio",
+    "Description": "",
+    "Url": "https://support.office.com/pt-br/f1/article/0f6befc2-feb2-4ee3-bf2a-ac8b3d293763?embed=true&themeid=-1",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "66eb28d7-8fd3-4926-ad58-af3ffbe150c2",
+    "Title": "O que é o Power Apps?",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/powerapps-overview?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3f2b07ed-3424-4dbd-bc8a-8c42de55ff21",
+    "Title": "Introdução ao Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/intro-maker-portal?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "afabafb5-7c60-40e0-b19a-aeaeca7a7ab1",
+    "Title": "Visão geral sobre a criação de aplicativos no Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6ece2434-777b-4908-8304-257ee14ca6b2",
+    "Title": "Entrar no Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/sign-in-to-power-apps?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2767f8d4-8a1b-478f-80c1-070e209f1fae",
+    "Title": "Visão geral do Copilot no Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/ai-overview?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a076d8d4-ca4d-4c71-864c-d5eb96f957db",
+    "Title": "Recursos de Copilot e IA na documentação do Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/copilot-landing-page?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "32d8135e-a9f5-465d-927a-6b475a8552b8",
+    "Title": "O que são aplicativos de canvas?",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/getting-started?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9c59d084-e1f6-441a-8eab-718ae48105ab",
+    "Title": "Criar um aplicativo de tela em branco do zero",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/create-blank-app?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "4d9ca5d5-e030-4ac2-9a3f-96d2972a59b5",
+    "Title": "Salvar e publicar aplicativos de tela",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/save-publish-app?context=context%2Fchromeless",
+    "TechnologyId": "",
     "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",

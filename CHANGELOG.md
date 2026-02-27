@@ -2,11 +2,16 @@
 
 ## Content Update March 2026
 
-This release includes new documentation for the [JSON Schema for custom content packs](/installation/JSONSchema.md) and [how to create a custom content pack](/installation/CreateCustomContentPack.md). Content updates include playlists for Clipchamp and Visio.
+This release includes new documentation for the [JSON Schema for custom content packs](/installation/JSONSchema.md) and [how to create a custom content pack](/installation/CreateCustomContentPack.md).
 
-## Version 5.0.0.7
+- New playlist for Clipchamp
+- New playlist for Visio
+- New playlists for Power Apps
+
+## Version 5.0.0.10
 
 - Bug fix for [#976](../../../issues/976) - pdf viewer is very small.
+- Bug fix for [#979](../../../issues/979) - Update PowerShell scripts to set custom scripts to true
 
 ## Content Update January 2026
 

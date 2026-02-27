@@ -11977,5 +11977,104 @@
     "Source": "Microsoft",
     "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
     "StatusNote": ""
+  },
+  {
+    "Id": "66eb28d7-8fd3-4926-ad58-af3ffbe150c2",
+    "Title": "What is Power Apps?",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/powerapps-overview?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3f2b07ed-3424-4dbd-bc8a-8c42de55ff21",
+    "Title": "Get started with Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/intro-maker-portal?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "afabafb5-7c60-40e0-b19a-aeaeca7a7ab1",
+    "Title": "Overview of creating apps in Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6ece2434-777b-4908-8304-257ee14ca6b2",
+    "Title": "Sign in to Power Apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/sign-in-to-power-apps?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2767f8d4-8a1b-478f-80c1-070e209f1fae",
+    "Title": "Copilot in Power Apps overview",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-overview?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a076d8d4-ca4d-4c71-864c-d5eb96f957db",
+    "Title": "Copilot and AI features in Power Apps documentation",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/copilot-landing-page?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "32d8135e-a9f5-465d-927a-6b475a8552b8",
+    "Title": "What are canvas apps?",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/getting-started?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9c59d084-e1f6-441a-8eab-718ae48105ab",
+    "Title": "Create a blank canvas app from scratch",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/create-blank-app?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
+  },
+  {
+    "Id": "4d9ca5d5-e030-4ac2-9a3f-96d2972a59b5",
+    "Title": "Save and publish canvas apps",
+    "Description": "",
+    "Url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/save-publish-app?context=context%2Fchromeless",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "dda75593-7969-4d64-bff1-1c21bb2d8c8b",
+    "StatusNote": ""
   }
 ]

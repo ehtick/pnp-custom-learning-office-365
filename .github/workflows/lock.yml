@@ -9,13 +9,12 @@ jobs:
   lock:
     runs-on: ubuntu-latest
     steps:
-      - uses: dessant/lock-threads@v2
+      - uses: dessant/lock-threads@v6
         with:
           github-token: ${{ github.token }}
-          issue-lock-inactive-days: '30'
-          issue-exclude-labels: 'status: Contribution Opportunity,status: blocked,status: needs review,status: changes required'
-          issue-lock-labels: 'auto-locked'
-          issue-lock-comment: 'This issue is locked for inactivity or age. If you have a related issue please open a new issue and reference this one. Closed issues are not tracked.'
+          issue-inactive-days: '30'
+          add-issue-labels: 'auto-locked'
+          exclude-any-issue-labels: 'status: Contribution Opportunity,status: blocked,status: needs review,status: changes required'
+          issue-comment: 'This issue is locked for inactivity or age. If you have a related issue please open a new issue and reference this one. Closed issues are not tracked.'
           issue-lock-reason: ''
           process-only: 'issues'
-          
